@@ -1,2 +1,4 @@
+build_aux*
+install_aux*
 a.out*
 a.exe
