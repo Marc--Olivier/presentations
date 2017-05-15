@@ -8,7 +8,7 @@ enable_testing()
 find_package(Boost REQUIRED COMPONENTS graph regex)
 
 add_library(mygraph
-	Graph.cpp
+        Graph.cpp
 	Graph.hpp
 )
 target_link_libraries(mygraph
